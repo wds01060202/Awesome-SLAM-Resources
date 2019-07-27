@@ -2,7 +2,7 @@
 SLAM顶会论文、实验室、公司收集
 
 # SfM 相关文献
-##增量式SfM：
+## 增量式SfM：
 1.	N. Snavely, et al. Modeling the World from Internet Photo Collections. IJCV 2007.
 2.	P. Moulon, et al. Adaptive Structure from Motion with a contrario model estimation. ACCV 2012.
 3.	C. Wu. Towards linear-time incremental structure from motion. 3DV 2013.
