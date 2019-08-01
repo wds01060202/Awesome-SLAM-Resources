@@ -4,6 +4,7 @@ SLAM顶会论文、实验室、公司收集
 * [SfM 相关文献]()
 * [稠密重建(Multiple View Stereo)相关文献]()
 * [SLAM公司推荐]()
+* [SLAM常用数据集]()
 
 # SfM 相关文献
 ## 增量式SfM：
@@ -396,3 +397,17 @@ Object Tracking（物体检测与跟踪）算法是团队基于传统视觉和�
 
 Scene Perception（图像场景理解）算法是团队在当前机器人行业背景下的在研技术之一。团队希望通过对深度视觉技术的前期技术积累，结合目前学术界已经成熟的基于CNN（卷积神经网络）的深度学习算法和行业数据，开发垂直应用的图像理解算法，该算法的创新性在于利用深度图像区别于传统图像的优势，通过更高维特征点集的获取得到更为精准的图像语言理解与认知。
 
+
+# SLAM常用数据集
+
+1． KITTI 装备4个相机、高精度GPS/IMU和激光雷达，在城市道路采集的数据。
+
+网址：http://www.cvlibs.net/datasets/kitti/
+
+2． EuRoC MAV 提供了在微型飞行器（MAV）上收集的视觉惯性数据集。数据集包含立体图像，同步IMU测量以及精确的运动和真值。
+
+网址：https://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets
+
+3． RGB-D SLAM Dataset and Benchmark 提供包含RGB-D数据和地面实况数据的大型数据集。
+
+网址：https://vision.in.tum.de/data/datasets/rgbd-dataset
