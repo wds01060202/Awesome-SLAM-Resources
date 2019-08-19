@@ -1,21 +1,21 @@
 # Awesome-SLAM-Resources
 SLAM顶会论文、实验室、公司收集
 
-* [SfM 相关文献](https://github.com/AwesomeKings/Awesome-SLAM-Resources/blob/master/README.md)
+* [1. SfM 相关文献](https://github.com/AwesomeKings/Awesome-SLAM-Resources/blob/master/README.md)
   * [增量式SfM]()
   * [全局式SfM]()
-* [稠密重建(Multiple View Stereo)相关文献](https://github.com/AwesomeKings/Awesome-SLAM-Resources/blob/master/README.md)
-* [SLAM公司推荐](https://github.com/AwesomeKings/Awesome-SLAM-Resources/blob/master/README.md)
+* [2. 稠密重建(Multiple View Stereo)相关文献](https://github.com/AwesomeKings/Awesome-SLAM-Resources/blob/master/README.md)
+* [3. SLAM公司推荐](https://github.com/AwesomeKings/Awesome-SLAM-Resources/blob/master/README.md)
   * [自动驾驶]()
   * [仓储机器人]()
   * [服务型机器人]()
   * [无人机]()
   * [增强现实]()
   * [芯片相机]()
-* [SLAM常用数据集](https://github.com/AwesomeKings/Awesome-SLAM-Resources/blob/master/README.md)
-* [SLAM开源数据集汇总（中文版）]()
+* [4. SLAM常用数据集](https://github.com/AwesomeKings/Awesome-SLAM-Resources/blob/master/README.md)
+* [5. SLAM开源数据集汇总（中文版）]()
 
-# SfM 相关文献
+# 1. SfM 相关文献
 ## 增量式SfM：
 1.	N. Snavely, et al. Modeling the World from Internet Photo Collections. IJCV 2007.
 2.	P. Moulon, et al. Adaptive Structure from Motion with a contrario model estimation. ACCV 2012.
@@ -35,7 +35,7 @@ SLAM顶会论文、实验室、公司收集
 1.	H. Cui, et al. HSfM: Hybrid Structure-from-Motion. CVPR 2017.
 2.	S. Zhu, et al. Parallel Structure from Motion from Local Increment to Global Averaging. arXiv:1702.08601.
 
-# 稠密重建(Multiple View Stereo)相关文献
+# 2. 稠密重建(Multiple View Stereo)相关文献
 1.	G. Vogiatzis, et. al. Multiview stereo via volumetric graph-cuts and occlusion robust photo-consistency. IEEE T-PAMI, 2007.
 2.	S.N. Sinha, et. al. Multi-view stereo via graph cuts on the dual of an adaptive tetrahedral mesh. ICCV 2007.
 3.	D. Gallup, et. al. Real-Time Plane-sweeping Stereo with Multiple Sweeping Directions. CVPR 2007.
@@ -52,7 +52,7 @@ SLAM顶会论文、实验室、公司收集
 
 
 
-# SLAM公司推荐
+# 3. SLAM公司推荐
 
 作者：张磊涛
 ##
@@ -407,7 +407,7 @@ Object Tracking（物体检测与跟踪）算法是团队基于传统视觉和�
 Scene Perception（图像场景理解）算法是团队在当前机器人行业背景下的在研技术之一。团队希望通过对深度视觉技术的前期技术积累，结合目前学术界已经成熟的基于CNN（卷积神经网络）的深度学习算法和行业数据，开发垂直应用的图像理解算法，该算法的创新性在于利用深度图像区别于传统图像的优势，通过更高维特征点集的获取得到更为精准的图像语言理解与认知。
 
 
-# SLAM常用数据集
+# 4. SLAM常用数据集
 
 1． KITTI 装备4个相机、高精度GPS/IMU和激光雷达，在城市道路采集的数据。
 
@@ -422,8 +422,9 @@ Scene Perception（图像场景理解）算法是团队在当前机器人行业�
 网址：https://vision.in.tum.de/data/datasets/rgbd-dataset
 
 
-# SLAM开源数据集汇总（中文版）
+# 5. SLAM开源数据集汇总（中文版）
 作者：泡泡机器人
+地址：https://github.com/PaoPaoRobot/awesome-slam-datasets
 
 ## 类别
 - [评估工具](#评估工具)
